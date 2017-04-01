@@ -1,0 +1,9 @@
+1.切换到夜神模拟器目录下cd C:\Program Files (x86)\nox\Nox\bin
+2.查看夜神模拟器端口nox_adb devices
+3.切换至HBuilder目录下cd C:\Program Files (x86)\HBuilder.7.6.0.windows\HBuilder\tools
+4.adb connect 127.0.0.1:62001
+
+cd进入夜神模拟器bin目录和hbuilder bin 目录下
+执行以下命令
+nox_adb connect 127.0.0.1:62001
+nod_adb devices
