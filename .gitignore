@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+# haha nimen buyao luangai,huichongtude
+classes/
+settings.gradle
+>>>>>>> 4343d915c3d206dd436abea9df07bd8683872161
 
 
 
@@ -16,6 +22,16 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 .idea/
+<<<<<<< HEAD
 #不能提交txt啦
 .txt
 >>>>>>> cae8d270836142bd49639c42b67b8aabba6926f3
+=======
+#.txt
+*.txt
+
+
+
+
+*.swp
+>>>>>>> 4343d915c3d206dd436abea9df07bd8683872161
