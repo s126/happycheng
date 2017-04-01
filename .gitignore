@@ -18,4 +18,4 @@ build/
 hs_err_pid*
 .idea/
 #不能提交txt啦
-.txt
+*.txt
