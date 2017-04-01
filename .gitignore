@@ -2,6 +2,7 @@
 
 
 
+<<<<<<< HEAD
 
 ÎÒÊÇÄ¢¹½
 
@@ -11,3 +12,10 @@
 
 
 
+=======
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+.idea/
+#ä¸èƒ½æäº¤txtå•¦
+.txt
+>>>>>>> cae8d270836142bd49639c42b67b8aabba6926f3
